@@ -1,0 +1,13 @@
+.user-edit-wrapper {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-edit-form {
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: lightgray;
+    width: 600px;
+}

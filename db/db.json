@@ -1,0 +1,270 @@
+{
+  "users": [
+    {
+      "id": "c253764e-a04b-4aa0-bb8e-941d9379331a",
+      "isAdmin": false,
+      "name": "Wilcox Tran",
+      "email": "wilcoxtran@zinca.com",
+      "password": "123456",
+      "phone": "+1 (982) 450-2102"
+    },
+    {
+      "id": "4597c933-dc8e-4c6d-9c78-7ee8d238f76b",
+      "isAdmin": false,
+      "name": "Strickland Murphy",
+      "email": "stricklandmurphy@zinca.com",
+      "password": "143526",
+      "phone": "+1 (886) 433-3732"
+    },
+    {
+      "id": "8919d25a-f12d-4c21-b182-54b60f7738a1",
+      "isAdmin": false,
+      "name": "Terrell Conner",
+      "email": "terrellconner@zinca.com",
+      "password": "152643",
+      "phone": "+1 (816) 501-2361"
+    },
+    {
+      "id": "e7a5ff87-99f3-419b-a13f-839b572aaa44",
+      "isAdmin": false,
+      "name": "Moreno Landry",
+      "email": "morenolandry@zinca.com",
+      "password": "654321",
+      "phone": "+1 (986) 462-2333"
+    },
+    {
+      "name": "Wilcox Cook",
+      "email": "wilcoxcook@zinca.com",
+      "password": "121212",
+      "phone": "+1 (972) 450-2102",
+      "isAdmin": true,
+      "id": "NI5dmjD"
+    },
+    {
+      "name": "Administrator",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "phone": "+3594311119",
+      "isAdmin": true,
+      "id": "qhNll3R"
+    },
+    {
+      "name": "Strickland Conner",
+      "email": "stricklandconner@zinca.com",
+      "password": "123123",
+      "phone": "112233445566",
+      "isAdmin": false,
+      "id": "jNMf876"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "66350f88-008b-4efd-b4bf-a1fcab80e406",
+      "vehicleType": "cargo",
+      "vehicle": [
+        "BMW",
+        "",
+        "2000-02-29"
+      ],
+      "fuelType": "petrol",
+      "numberOfSeats": "2",
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$21.00"
+    },
+    {
+      "id": "38aeb491-e571-494e-96f0-0a2c49d0e5b3",
+      "vehicleType": "SUV",
+      "vehicle": [
+        "Volkswagen",
+        "",
+        "2011-10-04"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 2,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$6.00"
+    },
+    {
+      "id": "93698a36-a300-4db1-87a5-b50e6340f30e",
+      "vehicleType": "luxury",
+      "vehicle": [
+        "Volkswagen",
+        "",
+        "2008-06-10"
+      ],
+      "fuelType": "petrol",
+      "numberOfSeats": 4,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$11.00"
+    },
+    {
+      "id": "7d0edb6a-c7f0-474b-a082-60a6ba0378d4",
+      "vehicleType": "economy",
+      "vehicle": [
+        "Volkswagen",
+        "",
+        "2007-12-03"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 5,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$10.00"
+    },
+    {
+      "id": "f0ce72f6-c05c-4566-851d-0457c4d77804",
+      "vehicleType": "SUV",
+      "vehicle": [
+        " Porsche",
+        "",
+        "2003-04-10"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 3,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$18.00"
+    },
+    {
+      "id": "fde773f8-e5dd-496c-a90b-cac105f6cd08",
+      "vehicleType": "economy",
+      "vehicle": [
+        "BMW",
+        "",
+        "2001-09-03"
+      ],
+      "fuelType": "diesel",
+      "numberOfSeats": 2,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$11.00"
+    },
+    {
+      "id": "6f9f5c13-7e9a-4146-bb4e-349fd112d3b3",
+      "vehicleType": "SUV",
+      "vehicle": [
+        "Cadillac",
+        "",
+        "2004-02-20"
+      ],
+      "fuelType": "electric",
+      "numberOfSeats": 5,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$5.00"
+    },
+    {
+      "id": "c6e17782-ed0e-47cf-b12b-540f46de25eb",
+      "vehicleType": "cargo",
+      "vehicle": [
+        "Lamborghini",
+        "",
+        "2015-08-20"
+      ],
+      "fuelType": "petrol",
+      "numberOfSeats": 6,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$8.00"
+    },
+    {
+      "id": "bcd5df5b-a888-487b-958e-766373be4df5",
+      "vehicleType": "SUV",
+      "vehicle": [
+        "Cadillac",
+        "",
+        "2016-01-14"
+      ],
+      "fuelType": "diesel",
+      "numberOfSeats": 4,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$15.00"
+    },
+    {
+      "id": "558c390e-b5a3-485f-8cf0-973048e86599",
+      "vehicleType": "luxury",
+      "vehicle": [
+        "Cadillac",
+        "",
+        "2010-04-19"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 3,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$20.00"
+    },
+    {
+      "id": "72e517d3-9f75-4e5a-b122-07c53862bdfa",
+      "vehicleType": "luxury",
+      "vehicle": [
+        "Mercedes-Benz",
+        "",
+        "2019-10-16"
+      ],
+      "fuelType": "diesel",
+      "numberOfSeats": 4,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$8.00"
+    },
+    {
+      "id": "3426842d-f412-4765-8a30-b875f4b606dc",
+      "vehicleType": "cargo",
+      "vehicle": [
+        "BMW",
+        "",
+        "2002-09-05"
+      ],
+      "fuelType": "electric",
+      "numberOfSeats": 5,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$5.00"
+    },
+    {
+      "id": "6e3be289-4145-4e8f-bbaf-3caf3fb8c69d",
+      "vehicleType": "cargo",
+      "vehicle": [
+        "Volkswagen",
+        "",
+        "2020-10-19"
+      ],
+      "fuelType": "petrol",
+      "numberOfSeats": 6,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$24.00"
+    },
+    {
+      "id": "c108be42-67d1-4b5f-bc3e-bd65db7506cd",
+      "vehicleType": "SUV",
+      "vehicle": [
+        "Ford",
+        "",
+        "2009-03-09"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 4,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$16.00"
+    },
+    {
+      "id": "626f7950-3a76-4d81-bcd8-0dd2f45ada13",
+      "vehicleType": "cargo",
+      "vehicle": [
+        "Opel",
+        "",
+        "2016-07-20"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 4,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$12.00"
+    },
+    {
+      "id": "28510478-5783-4317-92e8-d2388516e714",
+      "vehicleType": "SUV",
+      "vehicle": [
+        "Audi",
+        "",
+        "2020-09-22"
+      ],
+      "fuelType": "hybrid",
+      "numberOfSeats": 6,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$23.00"
+    }
+  ]
+}

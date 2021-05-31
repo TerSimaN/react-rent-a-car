@@ -1,0 +1,16 @@
+.user-card-wrapper {
+    margin: 1rem;
+}
+
+.user-card {
+    width: 18rem;
+    height: 18rem;
+}
+
+.card-data {
+    display: block;
+}
+
+.link {
+    margin: 1px;
+}

@@ -1,0 +1,13 @@
+.vehicle-edit-wrapper {
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vehicle-edit-form {
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: lightgray;
+    width: 600px;
+}

@@ -1,0 +1,18 @@
+.register-form-wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: lightgray;
+    width: 400px;
+}
+
+.return-btn {
+    margin-top: 10px;
+}

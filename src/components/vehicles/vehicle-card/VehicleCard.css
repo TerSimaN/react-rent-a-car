@@ -1,0 +1,11 @@
+.vehicle-card-wrapper {
+    margin: 1rem;
+}
+
+.card {
+    width: 18rem;
+}
+
+.card-data {
+    display: block;
+}
