@@ -10,7 +10,7 @@ const vehicleContent = (vehicle, onDelete) => {
             <div className="card">
                 <div className="card-body">
                 <img src={vehicle.picture} className="card-img-top" alt="..."/>
-                    <h5 className="card-title">{vehicle.vehicle[0]}</h5>
+                    <h5 className="card-title">{vehicle.vehicle[0].brand}</h5>
                     <p className="card-text">
                         <span className="card-data">
                             <strong>Vehicle Type: </strong><span>{vehicle.vehicleType}</span>

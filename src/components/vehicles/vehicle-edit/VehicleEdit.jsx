@@ -7,7 +7,13 @@ import './VehicleEdit.css';
 export function VehicleEdit(props) {
 
     const [editedVehicle, setEditedVehicle] = useState({
-        vehicle: [],
+        vehicle: [
+            {
+                brand: '',
+                model: '',
+                constructionYear: ''
+            }
+        ],
         vehicleType: '',
         fuelType: '',
         numberOfSeats: 0,
@@ -47,16 +53,16 @@ export function VehicleEdit(props) {
         <div className="vehicle-edit-wrapper">
             <form className="vehicle-edit-form" onSubmit={onFormSubmit} >
                 <div className="form-group">
-                    <label htmlFor="vehicleBrand">Vehicle brand: </label>
-                    <input type="text" className="form-control" id="vehicleBrand" name="vehicleBrand" value={editedVehicle.vehicle[0]} onChange={onInputChange} required />
+                    <label htmlFor="brand">Vehicle brand: </label>
+                    <input type="text" className="form-control" id="brand" name="brand" value={editedVehicle.vehicle[0].brand} onChange={onInputChange} required />
                 </div>
                 <div className="form-group">
-                    <label htmlFor="vehicleModel">Vehicle model: </label>
-                    <input type="text" className="form-control" id="vehicleModel" name="vehicleModel" value={editedVehicle.vehicle[1]} onChange={onInputChange} required />
+                    <label htmlFor="model">Vehicle model: </label>
+                    <input type="text" className="form-control" id="model" name="model" value={editedVehicle.vehicle[0].model} onChange={onInputChange} required />
                 </div>
                 <div className="form-group">
                     <label htmlFor="constructionYear">Construction year: </label>
-                    <input type="date" className="form-control" id="constructionYear" name="constructionYear" value={editedVehicle.vehicle[2]} onChange={onInputChange} required />
+                    <input type="date" className="form-control" id="constructionYear" name="constructionYear" value={editedVehicle.vehicle[0].constructionYear} onChange={onInputChange} required />
                 </div>
                 <div className="form-group">
                     <label htmlFor="vehicleType">Vehicle type (ex. economy, estate, luxury, SUV, cargo): </label>

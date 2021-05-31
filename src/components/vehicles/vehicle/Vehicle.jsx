@@ -11,7 +11,7 @@ export function Vehicle(props) {
             console.log(response);
             setVehicle(response.data);
         });
-    }, []);
+    }, [props]);
 
     return (
         // <div>hi</div>

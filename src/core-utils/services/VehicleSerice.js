@@ -15,7 +15,7 @@ export function saveVehicle(vehicleData) {
         return axios.put(`${apiUrl}/vehicles/${vehicleData.id}`, vehicleData);
     }
 
-    return axios.post(`${apiUrl}/vehicles`);
+    return axios.post(`${apiUrl}/vehicles`, vehicleData);
 }
 
 export function deleteVehicle(id) {

@@ -11,7 +11,7 @@ export function User(props) {
             console.log(response);
             setUser(response.data);
         });
-    }, []);
+    }, [props]);
 
     return (
         // <div>hi</div>
