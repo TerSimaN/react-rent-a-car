@@ -298,6 +298,21 @@
       "numberOfSeats": 6,
       "picture": "http://placehold.it/32x32",
       "pricePerDay": "$23.00"
+    },
+    {
+      "id": "28510478-5783-4317-92e8-d2388516e717",
+      "vehicleType": "economy",
+      "vehicle": [
+        {
+          "brand": "Skoda",
+          "model": "N/A",
+          "constructionYear": "2020-09-22"
+        }
+      ],
+      "fuelType": "petrol",
+      "numberOfSeats": 4,
+      "picture": "http://placehold.it/32x32",
+      "pricePerDay": "$25.00"
     }
   ]
 }
