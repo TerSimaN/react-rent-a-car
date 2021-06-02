@@ -309,7 +309,7 @@
           "constructionYear": "2020-09-22"
         }
       ],
-      "fuelType": "petrol",
+      "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "http://placehold.it/32x32",
       "pricePerDay": "$25.00"
