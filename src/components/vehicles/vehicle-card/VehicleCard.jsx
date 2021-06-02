@@ -15,13 +15,13 @@ const vehicleContent = (vehicle, onDelete) => {
                     <h5 className="card-title">{vehicle.vehicle[0].constructionYear}</h5> */}
                     <p className="card-text">
                         <span className="card-data">
-                            <strong>Vehicle Brand: </strong><span>{vehicle.vehicle[0].brand}</span>
+                            <strong>Vehicle Brand: </strong><span>{vehicle.vehicle.brand}</span>
                         </span>
                         <span className="card-data">
-                            <strong>Vehicle Model: </strong><span>{vehicle.vehicle[0].model}</span>
+                            <strong>Vehicle Model: </strong><span>{vehicle.vehicle.model}</span>
                         </span>
                         <span className="card-data">
-                            <strong>Vehicle Construction Year: </strong><span>{vehicle.vehicle[0].constructionYear}</span>
+                            <strong>Vehicle Construction Year: </strong><span>{vehicle.vehicle.constructionYear}</span>
                         </span>
                         <span className="card-data">
                             <strong>Vehicle Type: </strong><span>{vehicle.vehicleType}</span>

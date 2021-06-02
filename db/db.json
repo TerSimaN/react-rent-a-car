@@ -61,13 +61,11 @@
     {
       "id": "66350f88-008b-4efd-b4bf-a1fcab80e406",
       "vehicleType": "luxury",
-      "vehicle": [
-        {
-          "brand": "BMW",
-          "model": "N/A",
-          "constructionYear": "2000-02-29"
-        }
-      ],
+      "vehicle": {
+        "brand": "BMW",
+        "model": "N/A",
+        "constructionYear": "2000-02-29"
+      },
       "fuelType": "petrol",
       "numberOfSeats": "2",
       "picture": "",
@@ -76,13 +74,11 @@
     {
       "id": "38aeb491-e571-494e-96f0-0a2c49d0e5b3",
       "vehicleType": "SUV",
-      "vehicle": [
-        {
-          "brand": "Volkswagen",
-          "model": "N/A",
-          "constructionYear": "2011-10-04"
-        }
-      ],
+      "vehicle": {
+        "brand": "Volkswagen",
+        "model": "N/A",
+        "constructionYear": "2011-10-04"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": 2,
       "picture": "http://placehold.it/32x32",
@@ -91,13 +87,11 @@
     {
       "id": "93698a36-a300-4db1-87a5-b50e6340f30e",
       "vehicleType": "luxury",
-      "vehicle": [
-        {
-          "brand": "Volkswagen",
-          "model": "N/A",
-          "constructionYear": "2008-06-10"
-        }
-      ],
+      "vehicle": {
+        "brand": "Volkswagen",
+        "model": "N/A",
+        "constructionYear": "2008-06-10"
+      },
       "fuelType": "petrol",
       "numberOfSeats": 4,
       "picture": "http://placehold.it/32x32",
@@ -106,13 +100,11 @@
     {
       "id": "7d0edb6a-c7f0-474b-a082-60a6ba0378d4",
       "vehicleType": "economy",
-      "vehicle": [
-        {
-          "brand": "Volkswagen",
-          "model": "N/A",
-          "constructionYear": "2007-12-03"
-        }
-      ],
+      "vehicle": {
+        "brand": "Volkswagen",
+        "model": "N/A",
+        "constructionYear": "2007-12-03"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": 5,
       "picture": "http://placehold.it/32x32",
@@ -121,13 +113,11 @@
     {
       "id": "f0ce72f6-c05c-4566-851d-0457c4d77804",
       "vehicleType": "SUV",
-      "vehicle": [
-        {
-          "brand": " Porsche",
-          "model": "N/A",
-          "constructionYear": "2003-04-10"
-        }
-      ],
+      "vehicle": {
+        "brand": " Porsche",
+        "model": "N/A",
+        "constructionYear": "2003-04-10"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": "4",
       "picture": "http://placehold.it/32x32",
@@ -137,13 +127,11 @@
     {
       "id": "fde773f8-e5dd-496c-a90b-cac105f6cd08",
       "vehicleType": "economy",
-      "vehicle": [
-        {
-          "brand": "BMW",
-          "model": "N/A",
-          "constructionYear": "2001-09-03"
-        }
-      ],
+      "vehicle": {
+        "brand": "BMW",
+        "model": "N/A",
+        "constructionYear": "2001-09-03"
+      },
       "fuelType": "diesel",
       "numberOfSeats": 2,
       "picture": "http://placehold.it/32x32",
@@ -152,13 +140,11 @@
     {
       "id": "6f9f5c13-7e9a-4146-bb4e-349fd112d3b3",
       "vehicleType": "SUV",
-      "vehicle": [
-        {
-          "brand": "Cadillac",
-          "model": "N/A",
-          "constructionYear": "2004-02-20"
-        }
-      ],
+      "vehicle": {
+        "brand": "Cadillac",
+        "model": "N/A",
+        "constructionYear": "2004-02-20"
+      },
       "fuelType": "electric",
       "numberOfSeats": 5,
       "picture": "http://placehold.it/32x32",
@@ -167,13 +153,11 @@
     {
       "id": "c6e17782-ed0e-47cf-b12b-540f46de25eb",
       "vehicleType": "cargo",
-      "vehicle": [
-        {
-          "brand": "Lamborghini",
-          "model": "N/A",
-          "constructionYear": "2015-08-20"
-        }
-      ],
+      "vehicle": {
+        "brand": "Lamborghini",
+        "model": "N/A",
+        "constructionYear": "2015-08-20"
+      },
       "fuelType": "petrol",
       "numberOfSeats": 6,
       "picture": "http://placehold.it/32x32",
@@ -182,13 +166,11 @@
     {
       "id": "bcd5df5b-a888-487b-958e-766373be4df5",
       "vehicleType": "SUV",
-      "vehicle": [
-        {
-          "brand": "Cadillac",
-          "model": "N/A",
-          "constructionYear": "2016-01-14"
-        }
-      ],
+      "vehicle": {
+        "brand": "Cadillac",
+        "model": "N/A",
+        "constructionYear": "2016-01-14"
+      },
       "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "http://placehold.it/32x32",
@@ -197,13 +179,11 @@
     {
       "id": "558c390e-b5a3-485f-8cf0-973048e86599",
       "vehicleType": "luxury",
-      "vehicle": [
-        {
-          "brand": "Cadillac",
-          "model": "N/A",
-          "constructionYear": "2010-04-19"
-        }
-      ],
+      "vehicle": {
+        "brand": "Cadillac",
+        "model": "N/A",
+        "constructionYear": "2010-04-19"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": 3,
       "picture": "http://placehold.it/32x32",
@@ -212,13 +192,11 @@
     {
       "id": "72e517d3-9f75-4e5a-b122-07c53862bdfa",
       "vehicleType": "luxury",
-      "vehicle": [
-        {
-          "brand": "Mercedes-Benz",
-          "model": "N/A",
-          "constructionYear": "2019-10-16"
-        }
-      ],
+      "vehicle": {
+        "brand": "Mercedes-Benz",
+        "model": "N/A",
+        "constructionYear": "2019-10-16"
+      },
       "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "http://placehold.it/32x32",
@@ -227,13 +205,11 @@
     {
       "id": "3426842d-f412-4765-8a30-b875f4b606dc",
       "vehicleType": "cargo",
-      "vehicle": [
-        {
-          "brand": "BMW",
-          "model": "N/A",
-          "constructionYear": "2002-09-05"
-        }
-      ],
+      "vehicle": {
+        "brand": "BMW",
+        "model": "N/A",
+        "constructionYear": "2002-09-05"
+      },
       "fuelType": "electric",
       "numberOfSeats": 5,
       "picture": "http://placehold.it/32x32",
@@ -242,13 +218,11 @@
     {
       "id": "6e3be289-4145-4e8f-bbaf-3caf3fb8c69d",
       "vehicleType": "cargo",
-      "vehicle": [
-        {
-          "brand": "Volkswagen",
-          "model": "N/A",
-          "constructionYear": "2020-10-19"
-        }
-      ],
+      "vehicle": {
+        "brand": "Volkswagen",
+        "model": "N/A",
+        "constructionYear": "2020-10-19"
+      },
       "fuelType": "petrol",
       "numberOfSeats": 6,
       "picture": "http://placehold.it/32x32",
@@ -257,13 +231,11 @@
     {
       "id": "c108be42-67d1-4b5f-bc3e-bd65db7506cd",
       "vehicleType": "SUV",
-      "vehicle": [
-        {
-          "brand": "Ford",
-          "model": "N/A",
-          "constructionYear": "2009-03-09"
-        }
-      ],
+      "vehicle": {
+        "brand": "Ford",
+        "model": "N/A",
+        "constructionYear": "2009-03-09"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": 4,
       "picture": "http://placehold.it/32x32",
@@ -272,13 +244,11 @@
     {
       "id": "626f7950-3a76-4d81-bcd8-0dd2f45ada13",
       "vehicleType": "cargo",
-      "vehicle": [
-        {
-          "brand": "Opel",
-          "model": "",
-          "constructionYear": "2016-07-20"
-        }
-      ],
+      "vehicle": {
+        "brand": "Opel",
+        "model": "",
+        "constructionYear": "2016-07-20"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": 4,
       "picture": "http://placehold.it/32x32",
@@ -287,13 +257,11 @@
     {
       "id": "28510478-5783-4317-92e8-d2388516e714",
       "vehicleType": "SUV",
-      "vehicle": [
-        {
-          "brand": "Audi",
-          "model": "N/A",
-          "constructionYear": "2020-09-22"
-        }
-      ],
+      "vehicle": {
+        "brand": "Audi",
+        "model": "N/A",
+        "constructionYear": "2020-09-22"
+      },
       "fuelType": "hybrid",
       "numberOfSeats": 6,
       "picture": "http://placehold.it/32x32",
@@ -302,17 +270,31 @@
     {
       "id": "28510478-5783-4317-92e8-d2388516e717",
       "vehicleType": "economy",
-      "vehicle": [
-        {
-          "brand": "Škoda",
-          "model": "Octavia Super",
-          "constructionYear": "1960-09-12"
-        }
-      ],
+      "vehicle": {
+        "brand": "Škoda",
+        "model": "Octavia Super",
+        "constructionYear": "1960-09-12"
+      },
       "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-122.jpg/220px-13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-122.jpg",
       "pricePerDay": "$25.00"
+    }
+  ],
+  "rents": [
+    {
+      "id": 1,
+      "startDateTime": "2020-07-18T08:20:47",
+      "endDateTime": "2020-11-08T05:51:28",
+      "customer": "Wilcox Tran",
+      "vehicle": "Škoda"
+    },
+    {
+      "startDateTime": "1999.06.24T12:45",
+      "endDateTime": "1999.06.29T12:45",
+      "vehicle": "Mercedes-Benz",
+      "customer": "Strickland Murphy",
+      "id": 2
     }
   ]
 }
