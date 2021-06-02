@@ -9,9 +9,20 @@ const vehicleContent = (vehicle, onDelete) => {
         <div className="vehicle-card-wrapper">
             <div className="card">
                 <div className="card-body">
-                <img src={vehicle.picture} className="card-img-top" alt="..."/>
-                    <h5 className="card-title">{vehicle.vehicle[0].brand}</h5>
+                <img src={vehicle.picture || "http://placehold.it/32x32"} className="card-img-top" alt="..."/>
+                    {/* <h5 className="card-title">{vehicle.vehicle[0].brand}</h5>
+                    <h5 className="card-title">{vehicle.vehicle[0].model}</h5>
+                    <h5 className="card-title">{vehicle.vehicle[0].constructionYear}</h5> */}
                     <p className="card-text">
+                        <span className="card-data">
+                            <strong>Vehicle Brand: </strong><span>{vehicle.vehicle[0].brand}</span>
+                        </span>
+                        <span className="card-data">
+                            <strong>Vehicle Model: </strong><span>{vehicle.vehicle[0].model}</span>
+                        </span>
+                        <span className="card-data">
+                            <strong>Vehicle Construction Year: </strong><span>{vehicle.vehicle[0].constructionYear}</span>
+                        </span>
                         <span className="card-data">
                             <strong>Vehicle Type: </strong><span>{vehicle.vehicleType}</span>
                         </span>

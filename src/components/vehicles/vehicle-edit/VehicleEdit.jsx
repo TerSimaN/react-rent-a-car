@@ -78,7 +78,7 @@ export function VehicleEdit(props) {
                 </div>
                 <div className="form-group">
                     <label htmlFor="picture">Picture: </label>
-                    <input type="text" className="form-control" id="picture" name="picture" value={editedVehicle.picture} onChange={onInputChange} required />
+                    <input type="text" className="form-control" id="picture" name="picture" value={editedVehicle.picture} onChange={onInputChange} />
                 </div>
                 <div className="form-group">
                     <label htmlFor="pricePerDay">Price per day: </label>

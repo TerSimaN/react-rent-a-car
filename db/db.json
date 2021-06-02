@@ -70,7 +70,7 @@
       ],
       "fuelType": "petrol",
       "numberOfSeats": "2",
-      "picture": "http://placehold.it/32x32",
+      "picture": "",
       "pricePerDay": "$21.00"
     },
     {
@@ -304,14 +304,14 @@
       "vehicleType": "economy",
       "vehicle": [
         {
-          "brand": "Skoda",
-          "model": "N/A",
-          "constructionYear": "2020-09-22"
+          "brand": "Škoda",
+          "model": "Octavia Super",
+          "constructionYear": "1960-09-12"
         }
       ],
       "fuelType": "diesel",
       "numberOfSeats": 4,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-122.jpg/220px-13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-122.jpg",
       "pricePerDay": "$25.00"
     }
   ]
