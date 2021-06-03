@@ -63,12 +63,12 @@
       "vehicleType": "luxury",
       "vehicle": {
         "brand": "BMW",
-        "model": "N/A",
+        "model": "G20",
         "constructionYear": "2000-02-29"
       },
       "fuelType": "petrol",
       "numberOfSeats": "2",
-      "picture": "",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_BMW_318d_SE_Automatic_2.0_Front.jpg/364px-2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
       "pricePerDay": "$21.00"
     },
     {
@@ -76,12 +76,12 @@
       "vehicleType": "SUV",
       "vehicle": {
         "brand": "Volkswagen",
-        "model": "N/A",
+        "model": "Golf",
         "constructionYear": "2011-10-04"
       },
       "fuelType": "hybrid",
       "numberOfSeats": 2,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2013_Volkswagen_Golf_SE_BlueMotion_Technology_1.4_Front.jpg/220px-2013_Volkswagen_Golf_SE_BlueMotion_Technology_1.4_Front.jpg",
       "pricePerDay": "$6.00"
     },
     {
@@ -89,12 +89,12 @@
       "vehicleType": "luxury",
       "vehicle": {
         "brand": "Volkswagen",
-        "model": "N/A",
+        "model": "Passat",
         "constructionYear": "2008-06-10"
       },
       "fuelType": "petrol",
       "numberOfSeats": 4,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2006-2010_Volkswagen_Passat_%283C%29_sedan_%282011-07-17%29_01.jpg/220px-2006-2010_Volkswagen_Passat_%283C%29_sedan_%282011-07-17%29_01.jpg",
       "pricePerDay": "$11.00"
     },
     {
@@ -102,12 +102,12 @@
       "vehicleType": "economy",
       "vehicle": {
         "brand": "Volkswagen",
-        "model": "N/A",
+        "model": "Scirocco",
         "constructionYear": "2007-12-03"
       },
       "fuelType": "hybrid",
       "numberOfSeats": 5,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/VW_Scirocco_III_1.4_TSI_DSG_Team_Deep_Black.JPG/220px-VW_Scirocco_III_1.4_TSI_DSG_Team_Deep_Black.JPG",
       "pricePerDay": "$10.00"
     },
     {
@@ -115,12 +115,12 @@
       "vehicleType": "SUV",
       "vehicle": {
         "brand": " Porsche",
-        "model": "N/A",
+        "model": "Panamera",
         "constructionYear": "2003-04-10"
       },
       "fuelType": "hybrid",
       "numberOfSeats": "4",
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Porsche_Panamera_4_E-Hybrid_%28MSP17%29.jpg/181px-Porsche_Panamera_4_E-Hybrid_%28MSP17%29.jpg",
       "pricePerDay": "$18.00",
       "constructionYear": "2003-04-11"
     },
@@ -129,12 +129,12 @@
       "vehicleType": "economy",
       "vehicle": {
         "brand": "BMW",
-        "model": "N/A",
+        "model": "G15",
         "constructionYear": "2001-09-03"
       },
       "fuelType": "diesel",
       "numberOfSeats": 2,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2019_BMW_M850i_xDrive_Automatic_4.4.jpg/355px-2019_BMW_M850i_xDrive_Automatic_4.4.jpg",
       "pricePerDay": "$11.00"
     },
     {
@@ -142,25 +142,25 @@
       "vehicleType": "SUV",
       "vehicle": {
         "brand": "Cadillac",
-        "model": "N/A",
+        "model": "Escalade",
         "constructionYear": "2004-02-20"
       },
       "fuelType": "electric",
       "numberOfSeats": 5,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/JAIA18_Cadillac_Escalade_Platinum_GMT_K2XL_1.jpg/120px-JAIA18_Cadillac_Escalade_Platinum_GMT_K2XL_1.jpg",
       "pricePerDay": "$5.00"
     },
     {
       "id": "c6e17782-ed0e-47cf-b12b-540f46de25eb",
-      "vehicleType": "cargo",
+      "vehicleType": "luxury",
       "vehicle": {
         "brand": "Lamborghini",
-        "model": "N/A",
+        "model": "Huracán",
         "constructionYear": "2015-08-20"
       },
       "fuelType": "petrol",
       "numberOfSeats": 6,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2014-03-04_Geneva_Motor_Show_1377.JPG/200px-2014-03-04_Geneva_Motor_Show_1377.JPG",
       "pricePerDay": "$8.00"
     },
     {
@@ -168,12 +168,12 @@
       "vehicleType": "SUV",
       "vehicle": {
         "brand": "Cadillac",
-        "model": "N/A",
+        "model": "CT6",
         "constructionYear": "2016-01-14"
       },
       "fuelType": "diesel",
       "numberOfSeats": 4,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Cadillac_CT6_Premium_Luxury%2C_front_8.28.19.jpg/200px-2019_Cadillac_CT6_Premium_Luxury%2C_front_8.28.19.jpg",
       "pricePerDay": "$15.00"
     },
     {
@@ -181,12 +181,12 @@
       "vehicleType": "luxury",
       "vehicle": {
         "brand": "Cadillac",
-        "model": "N/A",
+        "model": "XT5",
         "constructionYear": "2010-04-19"
       },
       "fuelType": "hybrid",
       "numberOfSeats": 3,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2019_Cadillac_XT5_Luxury_3.6L_front_3.24.19.jpg/120px-2019_Cadillac_XT5_Luxury_3.6L_front_3.24.19.jpg",
       "pricePerDay": "$20.00"
     },
     {
@@ -194,12 +194,12 @@
       "vehicleType": "luxury",
       "vehicle": {
         "brand": "Mercedes-Benz",
-        "model": "N/A",
+        "model": "S-Class",
         "constructionYear": "2019-10-16"
       },
       "fuelType": "diesel",
       "numberOfSeats": 4,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mercedes-Benz_W223_IMG_3951.jpg/200px-Mercedes-Benz_W223_IMG_3951.jpg",
       "pricePerDay": "$8.00"
     },
     {
@@ -207,12 +207,12 @@
       "vehicleType": "cargo",
       "vehicle": {
         "brand": "BMW",
-        "model": "N/A",
+        "model": "F40",
         "constructionYear": "2002-09-05"
       },
       "fuelType": "electric",
       "numberOfSeats": 5,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2019_BMW_118i_SE_1.5_Front.jpg/328px-2019_BMW_118i_SE_1.5_Front.jpg",
       "pricePerDay": "$5.00"
     },
     {
@@ -220,12 +220,12 @@
       "vehicleType": "cargo",
       "vehicle": {
         "brand": "Volkswagen",
-        "model": "N/A",
+        "model": "Jetta",
         "constructionYear": "2020-10-19"
       },
       "fuelType": "petrol",
       "numberOfSeats": 6,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2011_Volkswagen_Jetta_%281KM_MY10%29_118TSI_sedan_%282015-07-03%29_01.jpg/220px-2011_Volkswagen_Jetta_%281KM_MY10%29_118TSI_sedan_%282015-07-03%29_01.jpg",
       "pricePerDay": "$24.00"
     },
     {
@@ -233,12 +233,12 @@
       "vehicleType": "SUV",
       "vehicle": {
         "brand": "Ford",
-        "model": "N/A",
+        "model": "EcoSport",
         "constructionYear": "2009-03-09"
       },
       "fuelType": "hybrid",
       "numberOfSeats": 4,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg/200px-2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg",
       "pricePerDay": "$16.00"
     },
     {
@@ -246,12 +246,12 @@
       "vehicleType": "cargo",
       "vehicle": {
         "brand": "Opel",
-        "model": "",
+        "model": "Astra",
         "constructionYear": "2016-07-20"
       },
       "fuelType": "hybrid",
       "numberOfSeats": 4,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Opel_Astra_K_IMG_2474.jpg/200px-Opel_Astra_K_IMG_2474.jpg",
       "pricePerDay": "$12.00"
     },
     {
@@ -259,12 +259,12 @@
       "vehicleType": "SUV",
       "vehicle": {
         "brand": "Audi",
-        "model": "N/A",
+        "model": "Q5",
         "constructionYear": "2020-09-22"
       },
       "fuelType": "hybrid",
       "numberOfSeats": 6,
-      "picture": "http://placehold.it/32x32",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Audi_Q5_FY_Facelift_IMG_4138.jpg/200px-Audi_Q5_FY_Facelift_IMG_4138.jpg",
       "pricePerDay": "$23.00"
     },
     {
