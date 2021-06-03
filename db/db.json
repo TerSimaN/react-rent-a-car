@@ -295,6 +295,13 @@
       "vehicle": "Mercedes-Benz",
       "customer": "Strickland Murphy",
       "id": 2
+    },
+    {
+      "startDateTime": "2021-07-18T08:30:00",
+      "endDateTime": "2021-07-24T09:30:00",
+      "vehicle": "Lamborghini",
+      "customer": "Moreno Landry",
+      "id": 3
     }
   ]
 }
