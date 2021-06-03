@@ -82,7 +82,7 @@
       "fuelType": "hybrid",
       "numberOfSeats": 2,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2013_Volkswagen_Golf_SE_BlueMotion_Technology_1.4_Front.jpg/220px-2013_Volkswagen_Golf_SE_BlueMotion_Technology_1.4_Front.jpg",
-      "pricePerDay": "$6.00"
+      "pricePerDay": "$20.00"
     },
     {
       "id": "93698a36-a300-4db1-87a5-b50e6340f30e",
@@ -95,7 +95,7 @@
       "fuelType": "petrol",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2006-2010_Volkswagen_Passat_%283C%29_sedan_%282011-07-17%29_01.jpg/220px-2006-2010_Volkswagen_Passat_%283C%29_sedan_%282011-07-17%29_01.jpg",
-      "pricePerDay": "$11.00"
+      "pricePerDay": "$18.00"
     },
     {
       "id": "7d0edb6a-c7f0-474b-a082-60a6ba0378d4",
@@ -108,7 +108,7 @@
       "fuelType": "hybrid",
       "numberOfSeats": 5,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/VW_Scirocco_III_1.4_TSI_DSG_Team_Deep_Black.JPG/220px-VW_Scirocco_III_1.4_TSI_DSG_Team_Deep_Black.JPG",
-      "pricePerDay": "$10.00"
+      "pricePerDay": "$17.00"
     },
     {
       "id": "f0ce72f6-c05c-4566-851d-0457c4d77804",
@@ -135,7 +135,7 @@
       "fuelType": "diesel",
       "numberOfSeats": 2,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2019_BMW_M850i_xDrive_Automatic_4.4.jpg/355px-2019_BMW_M850i_xDrive_Automatic_4.4.jpg",
-      "pricePerDay": "$11.00"
+      "pricePerDay": "$24.00"
     },
     {
       "id": "6f9f5c13-7e9a-4146-bb4e-349fd112d3b3",
@@ -148,7 +148,7 @@
       "fuelType": "electric",
       "numberOfSeats": 5,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/JAIA18_Cadillac_Escalade_Platinum_GMT_K2XL_1.jpg/120px-JAIA18_Cadillac_Escalade_Platinum_GMT_K2XL_1.jpg",
-      "pricePerDay": "$5.00"
+      "pricePerDay": "$25.00"
     },
     {
       "id": "c6e17782-ed0e-47cf-b12b-540f46de25eb",
@@ -161,7 +161,7 @@
       "fuelType": "petrol",
       "numberOfSeats": 6,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2014-03-04_Geneva_Motor_Show_1377.JPG/200px-2014-03-04_Geneva_Motor_Show_1377.JPG",
-      "pricePerDay": "$8.00"
+      "pricePerDay": "$50.00"
     },
     {
       "id": "bcd5df5b-a888-487b-958e-766373be4df5",
@@ -174,7 +174,7 @@
       "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Cadillac_CT6_Premium_Luxury%2C_front_8.28.19.jpg/200px-2019_Cadillac_CT6_Premium_Luxury%2C_front_8.28.19.jpg",
-      "pricePerDay": "$15.00"
+      "pricePerDay": "$28.00"
     },
     {
       "id": "558c390e-b5a3-485f-8cf0-973048e86599",
@@ -200,7 +200,7 @@
       "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mercedes-Benz_W223_IMG_3951.jpg/200px-Mercedes-Benz_W223_IMG_3951.jpg",
-      "pricePerDay": "$8.00"
+      "pricePerDay": "$15.00"
     },
     {
       "id": "3426842d-f412-4765-8a30-b875f4b606dc",
@@ -213,7 +213,7 @@
       "fuelType": "electric",
       "numberOfSeats": 5,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2019_BMW_118i_SE_1.5_Front.jpg/328px-2019_BMW_118i_SE_1.5_Front.jpg",
-      "pricePerDay": "$5.00"
+      "pricePerDay": "$31.00"
     },
     {
       "id": "6e3be289-4145-4e8f-bbaf-3caf3fb8c69d",
@@ -239,7 +239,7 @@
       "fuelType": "hybrid",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg/200px-2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg",
-      "pricePerDay": "$16.00"
+      "pricePerDay": "$36.00"
     },
     {
       "id": "626f7950-3a76-4d81-bcd8-0dd2f45ada13",
@@ -252,7 +252,7 @@
       "fuelType": "hybrid",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Opel_Astra_K_IMG_2474.jpg/200px-Opel_Astra_K_IMG_2474.jpg",
-      "pricePerDay": "$12.00"
+      "pricePerDay": "$15.00"
     },
     {
       "id": "28510478-5783-4317-92e8-d2388516e714",
@@ -278,7 +278,7 @@
       "fuelType": "diesel",
       "numberOfSeats": 4,
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-122.jpg/220px-13-04-05-Skoda_Museum_Mlad%C3%A1_Boleslav_by_RalfR-122.jpg",
-      "pricePerDay": "$25.00"
+      "pricePerDay": "$30.00"
     }
   ],
   "rents": [
