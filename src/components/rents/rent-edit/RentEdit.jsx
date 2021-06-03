@@ -15,6 +15,13 @@ export function RentEdit(props) {
     const [shouldRedirect, setShouldRedirect] = useState(false);
 
     useEffect(() => {
+        setEditedRent({
+            startDateTime: '',
+            endDateTime: '',
+            vehicle: '',
+            customer: ''
+        });
+
         if (props.computedMatch.params.id) {
             getRentById(props.computedMatch.params.id).then((response) => {
                 setEditedRent(response.data);

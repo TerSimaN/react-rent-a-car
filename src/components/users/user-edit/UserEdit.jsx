@@ -16,6 +16,14 @@ export function UserEdit(props) {
     const [shouldRedirect, setShouldRedirect] = useState(false);
 
     useEffect(() => {
+        setEditedUser({
+            name: '',
+            email: '',
+            password: '',
+            phone: '',
+            isAdmin: false
+        });
+
         if (props.computedMatch.params.id) {
             getUserById(props.computedMatch.params.id).then((response) => {
                 setEditedUser(response.data);

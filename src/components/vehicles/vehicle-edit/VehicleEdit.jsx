@@ -22,6 +22,19 @@ export function VehicleEdit(props) {
     const [shouldRedirect, setShouldRedirect] = useState(false);
 
     useEffect(() => {
+        setEditedVehicle({
+            vehicle: {
+                brand: '',
+                model: '',
+                constructionYear: ''
+            },
+            vehicleType: '',
+            fuelType: '',
+            numberOfSeats: 0,
+            picture: '',
+            pricePerDay: ''
+        });
+        
         if (props.computedMatch.params.id) {
             getVehicleById(props.computedMatch.params.id).then((response) => {
                 setEditedVehicle(response.data);
